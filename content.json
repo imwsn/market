@@ -1,7 +1,119 @@
 {
-  "generated_at": "2025-11-04T06:26:39.823941",
+  "generated_at": "2025-11-04T06:30:48.967042",
   "title": "Equity Market Signals",
-  "content": "Unable to generate signals: Polygon API key not configured.",
-  "error": "Polygon API key is required. Set POLYGON_API_KEY environment variable or pass it to constructor.",
-  "securities": []
+  "content": "Trading signals generated from technical analysis of 5 securities.",
+  "summary": {
+    "total_analyzed": 5,
+    "buy_signals": 0,
+    "sell_signals": 0,
+    "bullish_signals": 5,
+    "bearish_signals": 0
+  },
+  "securities": [
+    {
+      "ticker": "AAPL",
+      "analysis_date": "2025-11-04T06:30:01.145848",
+      "data_points": 70,
+      "latest_price": 269.05,
+      "latest_date": "2025-11-03T05:00:00",
+      "signals": {
+        "ma_crossover_10_50": {
+          "signal": "BULLISH",
+          "strength": 6.873774963444629,
+          "reason": "10-day MA above 50-day MA",
+          "ma_short": 266.195,
+          "ma_long": 249.0742,
+          "price": 269.05
+        }
+      },
+      "indicators": {
+        "ma_10": 266.195,
+        "ma_50": 249.0742
+      }
+    },
+    {
+      "ticker": "MSFT",
+      "analysis_date": "2025-11-04T06:30:12.970719",
+      "data_points": 70,
+      "latest_price": 517.03,
+      "latest_date": "2025-11-03T05:00:00",
+      "signals": {
+        "ma_crossover_10_50": {
+          "signal": "BULLISH",
+          "strength": 2.293601005716873,
+          "reason": "10-day MA above 50-day MA",
+          "ma_short": 525.8109999999999,
+          "ma_long": 514.0214,
+          "price": 517.03
+        }
+      },
+      "indicators": {
+        "ma_10": 525.8109999999999,
+        "ma_50": 514.0214
+      }
+    },
+    {
+      "ticker": "GOOGL",
+      "analysis_date": "2025-11-04T06:30:24.971790",
+      "data_points": 70,
+      "latest_price": 283.72,
+      "latest_date": "2025-11-03T05:00:00",
+      "signals": {
+        "ma_crossover_10_50": {
+          "signal": "BULLISH",
+          "strength": 8.913832221722394,
+          "reason": "10-day MA above 50-day MA",
+          "ma_short": 267.285,
+          "ma_long": 245.40959999999998,
+          "price": 283.72
+        }
+      },
+      "indicators": {
+        "ma_10": 267.285,
+        "ma_50": 245.40959999999998
+      }
+    },
+    {
+      "ticker": "TSLA",
+      "analysis_date": "2025-11-04T06:30:37.108559",
+      "data_points": 70,
+      "latest_price": 468.37,
+      "latest_date": "2025-11-03T05:00:00",
+      "signals": {
+        "ma_crossover_10_50": {
+          "signal": "BULLISH",
+          "strength": 8.995627861456493,
+          "reason": "10-day MA above 50-day MA",
+          "ma_short": 450.37800000000004,
+          "ma_long": 413.20740000000006,
+          "price": 468.37
+        }
+      },
+      "indicators": {
+        "ma_10": 450.37800000000004,
+        "ma_50": 413.20740000000006
+      }
+    },
+    {
+      "ticker": "AMZN",
+      "analysis_date": "2025-11-04T06:30:48.966986",
+      "data_points": 70,
+      "latest_price": 254.0,
+      "latest_date": "2025-11-03T05:00:00",
+      "signals": {
+        "ma_crossover_10_50": {
+          "signal": "BULLISH",
+          "strength": 1.4574710324424276,
+          "reason": "10-day MA above 50-day MA",
+          "ma_short": 229.288,
+          "ma_long": 225.9942,
+          "price": 254.0
+        }
+      },
+      "indicators": {
+        "ma_10": 229.288,
+        "ma_50": 225.9942
+      }
+    }
+  ]
 }
