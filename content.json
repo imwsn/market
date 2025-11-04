@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-04T06:36:33.903567",
+  "generated_at": "2025-11-04T15:24:54.571039",
   "title": "Equity Market Signals",
   "content": "Trading signals generated from technical analysis of 7 securities.",
   "summary": {
@@ -12,7 +12,7 @@
   "securities": [
     {
       "ticker": "QQQ",
-      "analysis_date": "2025-11-04T06:35:21.779144",
+      "analysis_date": "2025-11-04T15:23:42.722802",
       "data_points": 70,
       "latest_price": 632.08,
       "latest_date": "2025-11-03T05:00:00",
@@ -33,7 +33,7 @@
     },
     {
       "ticker": "USO",
-      "analysis_date": "2025-11-04T06:35:33.749676",
+      "analysis_date": "2025-11-04T15:23:54.757148",
       "data_points": 70,
       "latest_price": 72.74,
       "latest_date": "2025-11-03T05:00:00",
@@ -54,7 +54,7 @@
     },
     {
       "ticker": "SPY",
-      "analysis_date": "2025-11-04T06:35:45.745267",
+      "analysis_date": "2025-11-04T15:24:06.593339",
       "data_points": 70,
       "latest_price": 683.34,
       "latest_date": "2025-11-03T05:00:00",
@@ -75,7 +75,7 @@
     },
     {
       "ticker": "GLD",
-      "analysis_date": "2025-11-04T06:35:57.884072",
+      "analysis_date": "2025-11-04T15:24:18.699431",
       "data_points": 70,
       "latest_price": 368.78,
       "latest_date": "2025-11-03T05:00:00",
@@ -96,7 +96,7 @@
     },
     {
       "ticker": "BYDDY",
-      "analysis_date": "2025-11-04T06:36:09.770102",
+      "analysis_date": "2025-11-04T15:24:30.578428",
       "data_points": 70,
       "latest_price": 12.61,
       "latest_date": "2025-11-03T05:00:00",
@@ -117,7 +117,7 @@
     },
     {
       "ticker": "BABA",
-      "analysis_date": "2025-11-04T06:36:21.924339",
+      "analysis_date": "2025-11-04T15:24:42.562198",
       "data_points": 70,
       "latest_price": 167.69,
       "latest_date": "2025-11-03T05:00:00",
@@ -138,7 +138,7 @@
     },
     {
       "ticker": "IBIT",
-      "analysis_date": "2025-11-04T06:36:33.903510",
+      "analysis_date": "2025-11-04T15:24:54.570983",
       "data_points": 70,
       "latest_price": 60.53,
       "latest_date": "2025-11-03T05:00:00",
