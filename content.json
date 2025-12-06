@@ -1,160 +1,160 @@
 {
-  "generated_at": "2025-12-05T15:25:12.377496",
+  "generated_at": "2025-12-06T15:21:03.264230",
   "title": "Equity Market Signals",
   "content": "Trading signals generated from technical analysis of 7 securities.",
   "summary": {
     "total_analyzed": 7,
-    "buy_signals": 1,
+    "buy_signals": 0,
     "sell_signals": 0,
-    "bullish_signals": 2,
+    "bullish_signals": 3,
     "bearish_signals": 4
   },
   "securities": [
     {
       "ticker": "QQQ",
-      "analysis_date": "2025-12-05T15:24:00.386416",
+      "analysis_date": "2025-12-06T15:19:51.247485",
       "data_points": 71,
-      "latest_price": 622.94,
-      "latest_date": "2025-12-04T05:00:00",
+      "latest_price": 625.48,
+      "latest_date": "2025-12-05T05:00:00",
       "signals": {
         "ma_crossover_10_50": {
-          "signal": "BUY",
-          "strength": 0.05896477509852255,
-          "reason": "10-day MA crossed above 50-day MA",
-          "ma_short": 610.894,
-          "ma_long": 610.534,
-          "price": 622.94
+          "signal": "BULLISH",
+          "strength": 0.6057204752173276,
+          "reason": "10-day MA above 50-day MA",
+          "ma_short": 614.875,
+          "ma_long": 611.173,
+          "price": 625.48
         }
       },
       "indicators": {
-        "ma_10": 610.894,
-        "ma_50": 610.534
+        "ma_10": 614.875,
+        "ma_50": 611.173
       }
     },
     {
       "ticker": "USO",
-      "analysis_date": "2025-12-05T15:24:12.327305",
+      "analysis_date": "2025-12-06T15:20:03.418453",
       "data_points": 71,
-      "latest_price": 71.39,
-      "latest_date": "2025-12-04T05:00:00",
+      "latest_price": 71.92,
+      "latest_date": "2025-12-05T05:00:00",
       "signals": {
         "ma_crossover_10_50": {
           "signal": "BEARISH",
-          "strength": -1.4528401259538772,
+          "strength": -1.0643878927981194,
           "reason": "10-day MA below 50-day MA",
-          "ma_short": 70.35400000000001,
-          "ma_long": 71.3912,
-          "price": 71.39
+          "ma_short": 70.531,
+          "ma_long": 71.2898,
+          "price": 71.92
         }
       },
       "indicators": {
-        "ma_10": 70.35400000000001,
-        "ma_50": 71.3912
+        "ma_10": 70.531,
+        "ma_50": 71.2898
       }
     },
     {
       "ticker": "SPY",
-      "analysis_date": "2025-12-05T15:24:24.407917",
+      "analysis_date": "2025-12-06T15:20:15.265508",
       "data_points": 71,
-      "latest_price": 684.39,
-      "latest_date": "2025-12-04T05:00:00",
+      "latest_price": 685.69,
+      "latest_date": "2025-12-05T05:00:00",
       "signals": {
         "ma_crossover_10_50": {
           "signal": "BULLISH",
-          "strength": 0.43203069307962433,
+          "strength": 0.8425628829206077,
           "reason": "10-day MA above 50-day MA",
-          "ma_short": 674.846,
-          "ma_long": 671.943,
-          "price": 684.39
+          "ma_short": 678.162,
+          "ma_long": 672.4958,
+          "price": 685.69
         }
       },
       "indicators": {
-        "ma_10": 674.846,
-        "ma_50": 671.943
+        "ma_10": 678.162,
+        "ma_50": 672.4958
       }
     },
     {
       "ticker": "GLD",
-      "analysis_date": "2025-12-05T15:24:36.320143",
+      "analysis_date": "2025-12-06T15:20:27.231613",
       "data_points": 71,
-      "latest_price": 387.13,
-      "latest_date": "2025-12-04T05:00:00",
+      "latest_price": 386.44,
+      "latest_date": "2025-12-05T05:00:00",
       "signals": {
         "ma_crossover_10_50": {
           "signal": "BULLISH",
-          "strength": 2.6023077351545987,
+          "strength": 2.6834024392915867,
           "reason": "10-day MA above 50-day MA",
-          "ma_short": 383.14,
-          "ma_long": 373.42240000000004,
-          "price": 387.13
+          "ma_short": 384.299,
+          "ma_long": 374.2562,
+          "price": 386.44
         }
       },
       "indicators": {
-        "ma_10": 383.14,
-        "ma_50": 373.42240000000004
+        "ma_10": 384.299,
+        "ma_50": 374.2562
       }
     },
     {
       "ticker": "BYDDY",
-      "analysis_date": "2025-12-05T15:24:48.439158",
+      "analysis_date": "2025-12-06T15:20:39.276798",
       "data_points": 71,
-      "latest_price": 12.59,
-      "latest_date": "2025-12-04T05:00:00",
+      "latest_price": 12.6,
+      "latest_date": "2025-12-05T05:00:00",
       "signals": {
         "ma_crossover_10_50": {
           "signal": "BEARISH",
-          "strength": -5.627315128732961,
+          "strength": -4.936871365962896,
           "reason": "10-day MA below 50-day MA",
-          "ma_short": 12.387,
-          "ma_long": 13.12562,
-          "price": 12.59
+          "ma_short": 12.455,
+          "ma_long": 13.10182,
+          "price": 12.6
         }
       },
       "indicators": {
-        "ma_10": 12.387,
-        "ma_50": 13.12562
+        "ma_10": 12.455,
+        "ma_50": 13.10182
       }
     },
     {
       "ticker": "BABA",
-      "analysis_date": "2025-12-05T15:25:00.329373",
+      "analysis_date": "2025-12-06T15:20:51.247723",
       "data_points": 71,
-      "latest_price": 157.44,
-      "latest_date": "2025-12-04T05:00:00",
+      "latest_price": 158.32,
+      "latest_date": "2025-12-05T05:00:00",
       "signals": {
         "ma_crossover_10_50": {
           "signal": "BEARISH",
-          "strength": -5.904160144476921,
+          "strength": -5.41071255910339,
           "reason": "10-day MA below 50-day MA",
-          "ma_short": 157.976,
-          "ma_long": 167.8884,
-          "price": 157.44
+          "ma_short": 158.48,
+          "ma_long": 167.5454,
+          "price": 158.32
         }
       },
       "indicators": {
-        "ma_10": 157.976,
-        "ma_50": 167.8884
+        "ma_10": 158.48,
+        "ma_50": 167.5454
       }
     },
     {
       "ticker": "IBIT",
-      "analysis_date": "2025-12-05T15:25:12.377440",
+      "analysis_date": "2025-12-06T15:21:03.264177",
       "data_points": 71,
-      "latest_price": 52.51,
-      "latest_date": "2025-12-04T05:00:00",
+      "latest_price": 50.69,
+      "latest_date": "2025-12-05T05:00:00",
       "signals": {
         "ma_crossover_10_50": {
           "signal": "BEARISH",
-          "strength": -15.43702145970173,
+          "strength": -14.82191748588601,
           "reason": "10-day MA below 50-day MA",
-          "ma_short": 50.506,
-          "ma_long": 59.725899999999996,
-          "price": 52.51
+          "ma_short": 50.678999999999995,
+          "ma_long": 59.497699999999995,
+          "price": 50.69
         }
       },
       "indicators": {
-        "ma_10": 50.506,
-        "ma_50": 59.725899999999996
+        "ma_10": 50.678999999999995,
+        "ma_50": 59.497699999999995
       }
     }
   ]
