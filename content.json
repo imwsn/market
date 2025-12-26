@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-25T15:23:42.777228",
+  "generated_at": "2025-12-26T15:24:19.755976",
   "title": "Equity Market Signals",
   "content": "Trading signals generated from technical analysis of 7 securities.",
   "summary": {
@@ -12,8 +12,8 @@
   "securities": [
     {
       "ticker": "QQQ",
-      "analysis_date": "2025-12-25T15:22:31.018937",
-      "data_points": 72,
+      "analysis_date": "2025-12-26T15:23:07.715699",
+      "data_points": 71,
       "latest_price": 623.93,
       "latest_date": "2025-12-24T05:00:00",
       "signals": {
@@ -33,8 +33,8 @@
     },
     {
       "ticker": "USO",
-      "analysis_date": "2025-12-25T15:22:42.783902",
-      "data_points": 72,
+      "analysis_date": "2025-12-26T15:23:19.637803",
+      "data_points": 71,
       "latest_price": 70.2,
       "latest_date": "2025-12-24T05:00:00",
       "signals": {
@@ -54,29 +54,29 @@
     },
     {
       "ticker": "SPY",
-      "analysis_date": "2025-12-25T15:22:54.809271",
-      "data_points": 72,
+      "analysis_date": "2025-12-26T15:23:31.621415",
+      "data_points": 71,
       "latest_price": 690.38,
       "latest_date": "2025-12-24T05:00:00",
       "signals": {
         "ma_crossover_10_50": {
           "signal": "BULLISH",
-          "strength": 0.8022024070209293,
+          "strength": 0.8022024070209463,
           "reason": "10-day MA above 50-day MA",
           "ma_short": 682.216,
-          "ma_long": 676.7868000000001,
+          "ma_long": 676.7868,
           "price": 690.38
         }
       },
       "indicators": {
         "ma_10": 682.216,
-        "ma_50": 676.7868000000001
+        "ma_50": 676.7868
       }
     },
     {
       "ticker": "GLD",
-      "analysis_date": "2025-12-25T15:23:07.401953",
-      "data_points": 72,
+      "analysis_date": "2025-12-26T15:23:43.621602",
+      "data_points": 71,
       "latest_price": 411.93,
       "latest_date": "2025-12-24T05:00:00",
       "signals": {
@@ -96,8 +96,8 @@
     },
     {
       "ticker": "BYDDY",
-      "analysis_date": "2025-12-25T15:23:18.831385",
-      "data_points": 72,
+      "analysis_date": "2025-12-26T15:23:55.620758",
+      "data_points": 71,
       "latest_price": 12.0,
       "latest_date": "2025-12-24T05:00:00",
       "signals": {
@@ -117,8 +117,8 @@
     },
     {
       "ticker": "BABA",
-      "analysis_date": "2025-12-25T15:23:31.002046",
-      "data_points": 72,
+      "analysis_date": "2025-12-26T15:24:07.623840",
+      "data_points": 71,
       "latest_price": 150.06,
       "latest_date": "2025-12-24T05:00:00",
       "signals": {
@@ -138,8 +138,8 @@
     },
     {
       "ticker": "IBIT",
-      "analysis_date": "2025-12-25T15:23:42.777174",
-      "data_points": 72,
+      "analysis_date": "2025-12-26T15:24:19.755922",
+      "data_points": 71,
       "latest_price": 49.46,
       "latest_date": "2025-12-24T05:00:00",
       "signals": {
