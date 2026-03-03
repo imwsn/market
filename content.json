@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-02T15:44:37.422442",
+  "generated_at": "2026-03-03T15:50:23.627491",
   "title": "Equity Market Signals",
   "content": "Trading signals generated from technical analysis of 7 securities.",
   "summary": {
@@ -12,149 +12,149 @@
   "securities": [
     {
       "ticker": "QQQ",
-      "analysis_date": "2026-03-02T15:43:25.281996",
+      "analysis_date": "2026-03-03T15:49:11.744889",
       "data_points": 66,
-      "latest_price": 607.29,
-      "latest_date": "2026-02-27T05:00:00",
+      "latest_price": 608.09,
+      "latest_date": "2026-03-02T05:00:00",
       "signals": {
         "ma_crossover_10_50": {
           "signal": "BEARISH",
-          "strength": -1.5334960644446478,
+          "strength": -1.4215871287688007,
           "reason": "10-day MA below 50-day MA",
-          "ma_short": 606.3779999999999,
-          "ma_long": 615.8216,
-          "price": 607.29
+          "ma_short": 606.9950000000001,
+          "ma_long": 615.7484,
+          "price": 608.09
         }
       },
       "indicators": {
-        "ma_10": 606.3779999999999,
-        "ma_50": 615.8216
+        "ma_10": 606.9950000000001,
+        "ma_50": 615.7484
       }
     },
     {
       "ticker": "USO",
-      "analysis_date": "2026-03-02T15:43:37.416806",
+      "analysis_date": "2026-03-03T15:49:23.566005",
       "data_points": 66,
-      "latest_price": 81.95,
-      "latest_date": "2026-02-27T05:00:00",
+      "latest_price": 87.19,
+      "latest_date": "2026-03-02T05:00:00",
       "signals": {
         "ma_crossover_10_50": {
           "signal": "BULLISH",
-          "strength": 7.592098295816813,
+          "strength": 8.458025520483522,
           "reason": "10-day MA above 50-day MA",
-          "ma_short": 79.65,
-          "ma_long": 74.0296,
-          "price": 81.95
+          "ma_short": 80.74699999999999,
+          "ma_long": 74.45,
+          "price": 87.19
         }
       },
       "indicators": {
-        "ma_10": 79.65,
-        "ma_50": 74.0296
+        "ma_10": 80.74699999999999,
+        "ma_50": 74.45
       }
     },
     {
       "ticker": "SPY",
-      "analysis_date": "2026-03-02T15:43:49.264817",
+      "analysis_date": "2026-03-03T15:49:35.647001",
       "data_points": 66,
-      "latest_price": 685.99,
-      "latest_date": "2026-02-27T05:00:00",
+      "latest_price": 686.38,
+      "latest_date": "2026-03-02T05:00:00",
       "signals": {
         "ma_crossover_10_50": {
           "signal": "BEARISH",
-          "strength": -0.21585309078771603,
+          "strength": -0.17033640495119226,
           "reason": "10-day MA below 50-day MA",
-          "ma_short": 686.298,
-          "ma_long": 687.7826000000001,
-          "price": 685.99
+          "ma_short": 686.761,
+          "ma_long": 687.9328,
+          "price": 686.38
         }
       },
       "indicators": {
-        "ma_10": 686.298,
-        "ma_50": 687.7826000000001
+        "ma_10": 686.761,
+        "ma_50": 687.9328
       }
     },
     {
       "ticker": "GLD",
-      "analysis_date": "2026-03-02T15:44:01.270344",
+      "analysis_date": "2026-03-03T15:49:47.667547",
       "data_points": 66,
-      "latest_price": 483.75,
-      "latest_date": "2026-02-27T05:00:00",
+      "latest_price": 490.0,
+      "latest_date": "2026-03-02T05:00:00",
       "signals": {
         "ma_crossover_10_50": {
           "signal": "BULLISH",
-          "strength": 6.819239321197814,
+          "strength": 6.984291787222133,
           "reason": "10-day MA above 50-day MA",
-          "ma_short": 468.782,
-          "ma_long": 438.85540000000003,
-          "price": 483.75
+          "ma_short": 471.52,
+          "ma_long": 440.73760000000004,
+          "price": 490.0
         }
       },
       "indicators": {
-        "ma_10": 468.782,
-        "ma_50": 438.85540000000003
+        "ma_10": 471.52,
+        "ma_50": 440.73760000000004
       }
     },
     {
       "ticker": "BYDDY",
-      "analysis_date": "2026-03-02T15:44:13.267226",
+      "analysis_date": "2026-03-03T15:49:59.605854",
       "data_points": 66,
-      "latest_price": 12.01,
-      "latest_date": "2026-02-27T05:00:00",
+      "latest_price": 12.66,
+      "latest_date": "2026-03-02T05:00:00",
       "signals": {
         "ma_crossover_10_50": {
           "signal": "BULLISH",
-          "strength": 0.7828661826146832,
+          "strength": 1.0172239108409369,
           "reason": "10-day MA above 50-day MA",
-          "ma_short": 12.422999999999998,
-          "ma_long": 12.3265,
-          "price": 12.01
+          "ma_short": 12.463000000000001,
+          "ma_long": 12.3375,
+          "price": 12.66
         }
       },
       "indicators": {
-        "ma_10": 12.422999999999998,
-        "ma_50": 12.3265
+        "ma_10": 12.463000000000001,
+        "ma_50": 12.3375
       }
     },
     {
       "ticker": "BABA",
-      "analysis_date": "2026-03-02T15:44:25.292701",
+      "analysis_date": "2026-03-03T15:50:11.783681",
       "data_points": 66,
-      "latest_price": 144.11,
-      "latest_date": "2026-02-27T05:00:00",
+      "latest_price": 142.56,
+      "latest_date": "2026-03-02T05:00:00",
       "signals": {
         "ma_crossover_10_50": {
           "signal": "BEARISH",
-          "strength": -3.785091159461571,
+          "strength": -4.534457103263397,
           "reason": "10-day MA below 50-day MA",
-          "ma_short": 152.598,
-          "ma_long": 158.60119999999998,
-          "price": 144.11
+          "ma_short": 151.281,
+          "ma_long": 158.4666,
+          "price": 142.56
         }
       },
       "indicators": {
-        "ma_10": 152.598,
-        "ma_50": 158.60119999999998
+        "ma_10": 151.281,
+        "ma_50": 158.4666
       }
     },
     {
       "ticker": "IBIT",
-      "analysis_date": "2026-03-02T15:44:37.422392",
+      "analysis_date": "2026-03-03T15:50:23.627437",
       "data_points": 66,
-      "latest_price": 37.19,
-      "latest_date": "2026-02-27T05:00:00",
+      "latest_price": 39.195,
+      "latest_date": "2026-03-02T05:00:00",
       "signals": {
         "ma_crossover_10_50": {
           "signal": "BEARISH",
-          "strength": -17.99360646447868,
+          "strength": -17.570001673043798,
           "reason": "10-day MA below 50-day MA",
-          "ma_short": 37.915,
-          "ma_long": 46.2342,
-          "price": 37.19
+          "ma_short": 37.9375,
+          "ma_long": 46.023900000000005,
+          "price": 39.195
         }
       },
       "indicators": {
-        "ma_10": 37.915,
-        "ma_50": 46.2342
+        "ma_10": 37.9375,
+        "ma_50": 46.023900000000005
       }
     }
   ]
