@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-08T15:27:35.007458",
+  "generated_at": "2026-03-09T16:02:15.438988",
   "title": "Equity Market Signals",
   "content": "Trading signals generated from technical analysis of 7 securities.",
   "summary": {
@@ -12,7 +12,7 @@
   "securities": [
     {
       "ticker": "QQQ",
-      "analysis_date": "2026-03-08T15:26:22.994644",
+      "analysis_date": "2026-03-09T16:01:03.426959",
       "data_points": 67,
       "latest_price": 599.75,
       "latest_date": "2026-03-06T05:00:00",
@@ -33,7 +33,7 @@
     },
     {
       "ticker": "USO",
-      "analysis_date": "2026-03-08T15:26:35.087763",
+      "analysis_date": "2026-03-09T16:01:15.417877",
       "data_points": 67,
       "latest_price": 108.77,
       "latest_date": "2026-03-06T05:00:00",
@@ -54,7 +54,7 @@
     },
     {
       "ticker": "SPY",
-      "analysis_date": "2026-03-08T15:26:47.000021",
+      "analysis_date": "2026-03-09T16:01:27.595040",
       "data_points": 67,
       "latest_price": 672.38,
       "latest_date": "2026-03-06T05:00:00",
@@ -75,7 +75,7 @@
     },
     {
       "ticker": "GLD",
-      "analysis_date": "2026-03-08T15:26:58.965841",
+      "analysis_date": "2026-03-09T16:01:39.479600",
       "data_points": 67,
       "latest_price": 473.51,
       "latest_date": "2026-03-06T05:00:00",
@@ -96,7 +96,7 @@
     },
     {
       "ticker": "BYDDY",
-      "analysis_date": "2026-03-08T15:27:10.955464",
+      "analysis_date": "2026-03-09T16:01:51.449326",
       "data_points": 67,
       "latest_price": 11.83,
       "latest_date": "2026-03-06T05:00:00",
@@ -117,7 +117,7 @@
     },
     {
       "ticker": "BABA",
-      "analysis_date": "2026-03-08T15:27:23.072874",
+      "analysis_date": "2026-03-09T16:02:03.543309",
       "data_points": 67,
       "latest_price": 130.79,
       "latest_date": "2026-03-06T05:00:00",
@@ -138,7 +138,7 @@
     },
     {
       "ticker": "IBIT",
-      "analysis_date": "2026-03-08T15:27:35.007410",
+      "analysis_date": "2026-03-09T16:02:15.438927",
       "data_points": 67,
       "latest_price": 38.6,
       "latest_date": "2026-03-06T05:00:00",
