@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T16:01:32.382630",
+  "generated_at": "2026-07-13T17:13:55.432195",
   "title": "Equity Market Signals",
   "content": "Trading signals generated from technical analysis of 7 securities.",
   "summary": {
@@ -12,29 +12,29 @@
   "securities": [
     {
       "ticker": "QQQ",
-      "analysis_date": "2026-07-12T16:00:20.428258",
-      "data_points": 68,
+      "analysis_date": "2026-07-13T17:12:43.439708",
+      "data_points": 67,
       "latest_price": 725.51,
       "latest_date": "2026-07-10T04:00:00",
       "signals": {
         "ma_crossover_10_50": {
           "signal": "BULLISH",
-          "strength": 0.6389660205320461,
+          "strength": 0.6389660205320302,
           "reason": "10-day MA above 50-day MA",
           "ma_short": 719.725,
-          "ma_long": 715.1554,
+          "ma_long": 715.1554000000001,
           "price": 725.51
         }
       },
       "indicators": {
         "ma_10": 719.725,
-        "ma_50": 715.1554
+        "ma_50": 715.1554000000001
       }
     },
     {
       "ticker": "USO",
-      "analysis_date": "2026-07-12T16:00:32.420733",
-      "data_points": 68,
+      "analysis_date": "2026-07-13T17:12:55.503265",
+      "data_points": 67,
       "latest_price": 108.7,
       "latest_date": "2026-07-10T04:00:00",
       "signals": {
@@ -54,29 +54,29 @@
     },
     {
       "ticker": "SPY",
-      "analysis_date": "2026-07-12T16:00:44.330406",
-      "data_points": 68,
+      "analysis_date": "2026-07-13T17:13:07.461281",
+      "data_points": 67,
       "latest_price": 754.95,
       "latest_date": "2026-07-10T04:00:00",
       "signals": {
         "ma_crossover_10_50": {
           "signal": "BULLISH",
-          "strength": 0.6202601217909173,
+          "strength": 0.6202601217909481,
           "reason": "10-day MA above 50-day MA",
           "ma_short": 745.8349999999999,
-          "ma_long": 741.2374000000001,
+          "ma_long": 741.2373999999999,
           "price": 754.95
         }
       },
       "indicators": {
         "ma_10": 745.8349999999999,
-        "ma_50": 741.2374000000001
+        "ma_50": 741.2373999999999
       }
     },
     {
       "ticker": "GLD",
-      "analysis_date": "2026-07-12T16:00:56.477142",
-      "data_points": 68,
+      "analysis_date": "2026-07-13T17:13:19.474109",
+      "data_points": 67,
       "latest_price": 377.01,
       "latest_date": "2026-07-10T04:00:00",
       "signals": {
@@ -96,8 +96,8 @@
     },
     {
       "ticker": "BYDDY",
-      "analysis_date": "2026-07-12T16:01:08.313630",
-      "data_points": 68,
+      "analysis_date": "2026-07-13T17:13:31.536370",
+      "data_points": 67,
       "latest_price": 10.81,
       "latest_date": "2026-07-10T04:00:00",
       "signals": {
@@ -117,8 +117,8 @@
     },
     {
       "ticker": "BABA",
-      "analysis_date": "2026-07-12T16:01:20.315563",
-      "data_points": 68,
+      "analysis_date": "2026-07-13T17:13:43.445463",
+      "data_points": 67,
       "latest_price": 112.33,
       "latest_date": "2026-07-10T04:00:00",
       "signals": {
@@ -138,8 +138,8 @@
     },
     {
       "ticker": "IBIT",
-      "analysis_date": "2026-07-12T16:01:32.382575",
-      "data_points": 68,
+      "analysis_date": "2026-07-13T17:13:55.432140",
+      "data_points": 67,
       "latest_price": 36.23,
       "latest_date": "2026-07-10T04:00:00",
       "signals": {
