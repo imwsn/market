@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T18:13:35.928997",
+  "generated_at": "2026-08-30T18:28:56.304912",
   "title": "Equity Market Signals",
   "content": "Trading signals generated from technical analysis of 7 securities.",
   "summary": {
@@ -12,29 +12,29 @@
   "securities": [
     {
       "ticker": "QQQ",
-      "analysis_date": "2026-08-29T18:12:23.933655",
-      "data_points": 70,
+      "analysis_date": "2026-08-30T18:27:44.253223",
+      "data_points": 69,
       "latest_price": 716.43,
       "latest_date": "2026-08-28T04:00:00",
       "signals": {
         "ma_crossover_10_50": {
           "signal": "BULLISH",
-          "strength": 0.4654076038109044,
+          "strength": 0.4654076038108883,
           "reason": "10-day MA above 50-day MA",
           "ma_short": 715.378,
-          "ma_long": 712.064,
+          "ma_long": 712.0640000000001,
           "price": 716.43
         }
       },
       "indicators": {
         "ma_10": 715.378,
-        "ma_50": 712.064
+        "ma_50": 712.0640000000001
       }
     },
     {
       "ticker": "USO",
-      "analysis_date": "2026-08-29T18:12:35.872644",
-      "data_points": 70,
+      "analysis_date": "2026-08-30T18:27:56.342770",
+      "data_points": 69,
       "latest_price": 129.7,
       "latest_date": "2026-08-28T04:00:00",
       "signals": {
@@ -54,8 +54,8 @@
     },
     {
       "ticker": "SPY",
-      "analysis_date": "2026-08-29T18:12:47.930915",
-      "data_points": 70,
+      "analysis_date": "2026-08-30T18:28:08.250152",
+      "data_points": 69,
       "latest_price": 769.35,
       "latest_date": "2026-08-28T04:00:00",
       "signals": {
@@ -75,71 +75,71 @@
     },
     {
       "ticker": "GLD",
-      "analysis_date": "2026-08-29T18:12:59.933797",
-      "data_points": 70,
+      "analysis_date": "2026-08-30T18:28:20.249881",
+      "data_points": 69,
       "latest_price": 408.89,
       "latest_date": "2026-08-28T04:00:00",
       "signals": {
         "ma_crossover_10_50": {
           "signal": "BULLISH",
-          "strength": 7.859018924225395,
+          "strength": 7.859018924225408,
           "reason": "10-day MA above 50-day MA",
-          "ma_short": 416.407,
+          "ma_short": 416.40700000000004,
           "ma_long": 386.066,
           "price": 408.89
         }
       },
       "indicators": {
-        "ma_10": 416.407,
+        "ma_10": 416.40700000000004,
         "ma_50": 386.066
       }
     },
     {
       "ticker": "BYDDY",
-      "analysis_date": "2026-08-29T18:13:11.867078",
-      "data_points": 70,
+      "analysis_date": "2026-08-30T18:28:32.245179",
+      "data_points": 69,
       "latest_price": 11.45,
       "latest_date": "2026-08-28T04:00:00",
       "signals": {
         "ma_crossover_10_50": {
           "signal": "BULLISH",
-          "strength": 4.925259657835758,
+          "strength": 4.925259657835724,
           "reason": "10-day MA above 50-day MA",
           "ma_short": 11.57598,
-          "ma_long": 11.032595999999998,
+          "ma_long": 11.032596000000002,
           "price": 11.45
         }
       },
       "indicators": {
         "ma_10": 11.57598,
-        "ma_50": 11.032595999999998
+        "ma_50": 11.032596000000002
       }
     },
     {
       "ticker": "BABA",
-      "analysis_date": "2026-08-29T18:13:23.864768",
-      "data_points": 70,
+      "analysis_date": "2026-08-30T18:28:44.275075",
+      "data_points": 69,
       "latest_price": 118.9,
       "latest_date": "2026-08-28T04:00:00",
       "signals": {
         "ma_crossover_10_50": {
           "signal": "BULLISH",
-          "strength": 6.408788122618015,
+          "strength": 6.408788122618028,
           "reason": "10-day MA above 50-day MA",
           "ma_short": 122.458,
-          "ma_long": 115.0826,
+          "ma_long": 115.08259999999999,
           "price": 118.9
         }
       },
       "indicators": {
         "ma_10": 122.458,
-        "ma_50": 115.0826
+        "ma_50": 115.08259999999999
       }
     },
     {
       "ticker": "IBIT",
-      "analysis_date": "2026-08-29T18:13:35.928944",
-      "data_points": 70,
+      "analysis_date": "2026-08-30T18:28:56.304859",
+      "data_points": 69,
       "latest_price": 43.9,
       "latest_date": "2026-08-28T04:00:00",
       "signals": {
